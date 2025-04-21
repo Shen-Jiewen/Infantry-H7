@@ -3,8 +3,6 @@
 .idea/
 .vscode/
 *.sublime-workspace
-*.uvprojx
-*.uvoptx
 
 # 编辑器临时文件
 *.swp
